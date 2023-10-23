@@ -1,0 +1,11 @@
+{
+  "name": "key_project_13.7",
+  "version": "1.0.0",
+  "description": "webpack, hot module, json server and else modul",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
