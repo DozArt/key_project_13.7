@@ -4,8 +4,13 @@
   "description": "webpack, hot module, json server and else modul",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build" : "webpack"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
 }
